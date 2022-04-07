@@ -1,0 +1,27 @@
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\bin\Debug\FinalTextEditor.exe.config
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\bin\Debug\FinalTextEditor.exe
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\bin\Debug\FinalTextEditor.pdb
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\bin\Debug\FinalTextEditor.xml
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.frmAverageUnitsShipped.resources
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.frmMain.resources
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.frmTextEditor.resources
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.Resources.resources
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\MDITextEditor.vbproj.GenerateResource.Cache
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.exe
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.xml
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.pdb
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\MDITextEditor.vbprojResolveAssemblyReference.cache
+D:\Downloads\FinalTextEditor\FinalTextEditor\bin\Debug\FinalTextEditor.exe.config
+D:\Downloads\FinalTextEditor\FinalTextEditor\bin\Debug\FinalTextEditor.exe
+D:\Downloads\FinalTextEditor\FinalTextEditor\bin\Debug\FinalTextEditor.pdb
+D:\Downloads\FinalTextEditor\FinalTextEditor\bin\Debug\FinalTextEditor.xml
+D:\Downloads\FinalTextEditor\FinalTextEditor\obj\Debug\MDITextEditor.vbproj.AssemblyReference.cache
+D:\Downloads\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.frmAverageUnitsShipped.resources
+D:\Downloads\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.frmMain.resources
+D:\Downloads\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.frmTextEditor.resources
+D:\Downloads\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.Resources.resources
+D:\Downloads\FinalTextEditor\FinalTextEditor\obj\Debug\MDITextEditor.vbproj.GenerateResource.cache
+D:\Downloads\FinalTextEditor\FinalTextEditor\obj\Debug\MDITextEditor.vbproj.CoreCompileInputs.cache
+D:\Downloads\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.exe
+D:\Downloads\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.xml
+D:\Downloads\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.pdb

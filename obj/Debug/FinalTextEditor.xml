@@ -1,0 +1,160 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FinalTextEditor
+</name>
+</assembly>
+<members>
+<member name="T:FinalTextEditor.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:FinalTextEditor.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:FinalTextEditor.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:FinalTextEditor.frmAverageUnitsShipped.isValid(System.String,System.Int32@)">
+ <summary>
+ Checks to see if the user input is a whole number and then if it is range. Displays a message box
+ error output if the input is invalid.
+ </summary>
+ <param name="userInput"></param>
+ <param name="validUserInput"></param>
+ <returns></returns>
+</member>
+<member name="M:FinalTextEditor.frmAverageUnitsShipped.resetForm">
+ <summary>
+ Loops through the form to reset every control and variable to the original state.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmAverageUnitsShipped.btnEnter_Click(System.Object,System.EventArgs)">
+ <summary>
+ Stores the user's input if it passes the validation check into the two dimensional array. Also increments the day
+ and employee counter if the input was valid. Once seven days worth of data have been inputed (all inputs for an 
+ employee), calculates and displays the average for that employee and moves to the next employee. Once all employee's 
+ data have been entered, calculates and displays the total average units shipped for all employees and locks the 
+ program so no more data can be entered until the user resets the program.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.NewForm(System.Object,System.EventArgs)">
+ <summary>
+ Opens a new blank document using the frmTextEditor child class when the new button is clicked.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.OpenFile(System.Object,System.EventArgs)">
+ <summary>
+ Opens a file when the open button is clicked, only allows .txt files. 
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.mnuAverageUnits_Click(System.Object,System.EventArgs)">
+ <summary>
+ Opens the Average Units Shipped program when clicked.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.btnSave_Click(System.Object,System.EventArgs)">
+ <summary>
+ Checks to see if the file is a text document. If it is, allows the user to save the file
+ automatically, if it exists, or select a name and destination to save if not.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.SaveAs_Click(System.Object,System.EventArgs)">
+ <summary>
+ Nearly identical to the btnSave_click except it always opens the save dialog to allow
+ the user to set the name and location they want for the file.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.Exit_Click(System.Object,System.EventArgs)">
+ <summary>
+ Closes the program when pressed.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.mnuCopy_Click(System.Object,System.EventArgs)">
+ <summary>
+ Copies the current selected text when clicked.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.mnuCut_Click(System.Object,System.EventArgs)">
+ <summary>
+ Copies then deletes the current selected text when clicked.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.mnuPaste_Click(System.Object,System.EventArgs)">
+ <summary>
+ Pastes any saved text to the currently selected location when clicked.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.CascadeToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ When clicked, sets the layout of all the current child forms in a cascade style.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.TileVerticalToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ When clicked, sets the layout of all the current child forms in a vertical style.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.TileHorizontalToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ When clicked, sets the layout of all the current child forms in a horizontal style.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.mnuClose_Click(System.Object,System.EventArgs)">
+ <summary>
+ Closes the current active child form when clicked. If the form is a text editor and has any
+ unsaved changes, it will prompt the user of this fact and give them a choice to close without
+ saving or not.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.SaveAs(FinalTextEditor.frmTextEditor)">
+ <summary>
+ A sub routine that creates a save dialog and calls upon the text editor child function
+ that saves the current document.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.UnsavedChanges">
+ <summary>
+ Creates a dialog check to see if the user wants to close the main program or not, when there are any
+ unsaved changes. Returns a true or false boolean value depending on the user's choice.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.frmMain_formClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+ <summary>
+ This routine happens when the main form is closing through any method. If there are any unsaved
+ changes to a text editor document, then it will prompt the user with a question to close without
+ saving or not to close.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmMain.mnuAbout_Click(System.Object,System.EventArgs)">
+ <summary>
+ Shows a messagebox that displays some info about the program when clicked.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmTextEditor.SaveFile(System.String)">
+ <summary>
+ Sub that creates a FileStream using the file path and sets the mode and access to create and write.
+ Once the FileStream is created, creates a StreamWriter using the parameters from the FileStream and then
+ writes the output (text/value in the textbox) to the new file.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmTextEditor.OpenFile(System.String)">
+ <summary>
+ Function similar to SaveFile but instead reads the values of the file, saves them to a variable
+ and then returns that variable back to the calling code.
+ </summary>
+</member>
+<member name="M:FinalTextEditor.frmTextEditor.DynamicTitle(System.String)">
+ <summary>
+ A function to change the title of the form to the file location and the action the user is doing.
+ </summary>
+</member>
+</members>
+</doc>

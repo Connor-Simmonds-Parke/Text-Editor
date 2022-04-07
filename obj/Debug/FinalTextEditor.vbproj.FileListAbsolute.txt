@@ -1,0 +1,12 @@
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\bin\Debug\FinalTextEditor.exe.config
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\bin\Debug\FinalTextEditor.exe
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\bin\Debug\FinalTextEditor.pdb
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\bin\Debug\FinalTextEditor.xml
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.vbprojResolveAssemblyReference.cache
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.frmMain.resources
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.Resources.resources
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.vbproj.GenerateResource.Cache
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.exe
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.xml
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.pdb
+c:\users\connor laptop\Desktop\Semester One\PROG -1205 - Introduction to Programming\Solutions\FinalTextEditor\FinalTextEditor\obj\Debug\FinalTextEditor.frmTextEditor.resources
